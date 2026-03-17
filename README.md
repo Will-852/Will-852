@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=600&color=8B5CF6&center=true&vCenter=true&width=640&lines=%24+initializing+Will-852...;%24+loading+modules+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%24+crypto_engine+........+%5B+OK+%5D;%24+rag_pipeline+.........+%5B+LOADING+%5D;%24+lora_trainer+.........+%5B+STANDBY+%5D;%24+claude_agent+..........+%5B+ONLINE+%5D;%24+system+ready.+welcome%2C+stranger.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=600&color=8B5CF6&center=true&vCenter=true&width=640&lines=%24+initializing+Will-852...;%24+loading+modules+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%24+crypto_engine+........+%5B+OK+%5D;%24+rag_pipeline+.........+%5B+LOADING+%5D;%24+lora_trainer+.........+%5B+STANDBY+%5D;%24+claude_agent+..........+%5B+ONLINE+%5D;%24+solidity+..............+%5B+LEARNING+%5D;%24+system+ready.+welcome%2C+stranger.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,16 +13,18 @@ $ cat status.log
   [LOADING]  RAG pipeline — building long-term memory layer
   [STANDBY]  LoRA fine-tune — custom model experiments
   [SHIPPED]  Invoice system — offline HTML tool for Shopline
+  [LEARNING] Solidity — smart contracts & on-chain logic
 
 $ echo $STACK
-  Python · Claude AI · RAG · LoRA · Telegram Bot API · HTML/JS
+  Python · Claude AI · RAG · LoRA · Solidity · Telegram Bot API · HTML/JS
 ```
 
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=8B5CF6)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-0d1117?style=flat-square&logo=anthropic&logoColor=8B5CF6)
-![LangChain](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=chainlink&logoColor=8B5CF6)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logo=chainlink&logoColor=8B5CF6)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=8B5CF6)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-0d1117?style=flat-square&logo=telegram&logoColor=8B5CF6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=8B5CF6)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=8B5CF6)
