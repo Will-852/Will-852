@@ -4,20 +4,7 @@
 
 <br/>
 
-```bash
-$ whoami
-  Will-852 · HK Builder · Crypto Trader · Vibe Coder
-
-$ cat status.log
-  [RUNNING]  AXC Trading Bot — live crypto signals + auto trade
-  [LOADING]  RAG pipeline — building long-term memory layer
-  [STANDBY]  LoRA fine-tune — custom model experiments
-  [SHIPPED]  Invoice system — offline HTML tool for Shopline
-  [LEARNING] Solidity — smart contracts & on-chain logic
-
-$ echo $STACK
-  Python · Claude AI · RAG · LoRA · Solidity · Telegram Bot API · HTML/JS
-```
+<img src="terminal.svg" alt="terminal" />
 
 <br/>
 
